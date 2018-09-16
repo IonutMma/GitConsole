@@ -21,6 +21,8 @@ namespace GitConsole
 
             Console.WriteLine("Commit from master branch!");
 
+            Console.WriteLine("Second commit from master branch!");
+
             Console.ReadLine();
         }
     }
