@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GitConsole
 {
@@ -22,6 +18,10 @@ namespace GitConsole
             Console.WriteLine("Commit from master branch!");
 
             Console.WriteLine("Second commit from master branch!");
+
+            Console.WriteLine("Commit to remove some unused namespaces on branch testing!");
+
+            Console.WriteLine("Another commit on branch testing!");
 
             Console.ReadLine();
         }
