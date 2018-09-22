@@ -6,7 +6,7 @@ namespace GitConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Cleanu up on Gabi master");
+            Console.WriteLine("Issue11");
 
             Console.ReadLine();
         }
