@@ -6,7 +6,7 @@ namespace GitConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Cleanu up on Gabi master");
+            Console.WriteLine("made a merge between origin and ionut");
 
             Console.ReadLine();
         }
