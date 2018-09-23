@@ -6,7 +6,7 @@ namespace GitConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Issue11");
+            Console.WriteLine("Master branch - v0.1");
 
             Console.ReadLine();
         }
